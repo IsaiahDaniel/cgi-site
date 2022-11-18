@@ -1,0 +1,14 @@
+.home {
+    margin-top: 5rem;
+}
+
+.home h1 {
+    font-size: 3rem;
+}
+
+.image-bg {
+    background: url("../../assets/images/Illustration-2.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 400px;
+}
